@@ -8,7 +8,7 @@ function App() {
       <Header />
       <div>main app</div>
       <div>
-        <Button>btn from shared ui</Button>
+        <Button variant="primary">btn from shared ui</Button>
       </div>
     </div>
   )
